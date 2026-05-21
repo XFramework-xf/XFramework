@@ -1,0 +1,36 @@
+{
+  "config": {
+    "admin_key": "xcom",
+    "lang": "id"
+  },
+  "weapons": [
+    {
+      "name": "y",
+      "type": "test",
+      "description": "just testing note a exploit",
+      "file_name": "wall.jpg",
+      "added_at": "2026-05-21 20:43:40 +0700"
+    },
+    {
+      "name": "test fiture",
+      "type": "none",
+      "description": "just testing ! not a exploits/scanner",
+      "file_name": "wall.jpg",
+      "added_at": "2026-05-21 20:47:56 +0700"
+    },
+    {
+      "name": "dos",
+      "type": "attacker",
+      "description": "Dos For Website (low level DOS )",
+      "file_name": "ddos_simulator.rb",
+      "added_at": "2026-05-22 06:29:20 +0700"
+    },
+    {
+      "name": "simple dos",
+      "type": "attack",
+      "description": "simple dos for website",
+      "file_name": "ddos_simulator.rb",
+      "added_at": "2026-05-22 06:30:57 +0700"
+    }
+  ]
+}
