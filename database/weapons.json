@@ -31,6 +31,13 @@
       "description": "simple dos for website",
       "file_name": "ddos_simulator.rb",
       "added_at": "2026-05-22 06:30:57 +0700"
+    },
+    {
+      "name": "dos",
+      "type": "attack",
+      "description": "simple dos for website",
+      "file_name": "ddos_simulator.rb",
+      "added_at": "2026-05-22 06:35:44 +0700"
     }
   ]
 }
